@@ -6,14 +6,14 @@ PreciseAttendance is a light-weight, open source attendance system for education
 
 ## Usage
 ### Instructor View
-1. Clone repository  
+1. **Clone repository**  
 `git clone https://github.com/nolanplatt/PreciseAttendance`
 
-2. Ensure all dependencies are installed  
+2. **Ensure all dependencies are installed**  
 `cd instructor`  
 `npm install`
 
-3. Add Firebase database config  
+3. **Add Firebase database config**  
 Navigate to `instructor/src`  
 Create a new file, `firebase.js`  
 Add the following:  
