@@ -1,0 +1,8 @@
+{
+    "class": "CS 2505: Computer Organization I",
+    "instructor": "Professor Lorem Lipsum",
+    "semester": "Fall 2024",
+    "refreshRate": "10",
+    "note": "Sharing this QR code will not work. QR code has a randomized refresh rate. Attempting to circumvent will open you up to Honor Code violations.",
+    "endpoint": "https://nolanplatt.com/attendance"
+}
