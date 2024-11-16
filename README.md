@@ -6,18 +6,18 @@ PreciseAttendance is a light-weight, open source attendance system for education
 
 ## Usage
 ### Instructor View
-1. Clone repository
+1. Clone repository  
 `git clone https://github.com/nolanplatt/PreciseAttendance`
 
-2. Ensure all dependencies are installed
-`cd instructor`
+2. Ensure all dependencies are installed  
+`cd instructor`  
 `npm install`
 
-3. Add Firebase database config
-Navigate to `instructor/src`
-Create a new file, `firebase.js`
-Add the following:
-<code>
+3. Add Firebase database config  
+Navigate to `instructor/src`  
+Create a new file, `firebase.js`  
+Add the following:  
+```
 /*
 Precise Attendance | Instructor View React Application
 @author Nolan Platt
@@ -33,8 +33,8 @@ const app = initializeApp(firebaseConfig);
 const database = getDatabase(app);
 
 export { database };
-</code>
-In the firebaseConfig, you need to add your own config for your firebase project.
+```  
+In the firebaseConfig, you need to add your own config for your firebase project.  
 Firstly, create a new Firebase project and create a Real Time Database. Once done, navigate to your project dashboard, click the gear icon, then “Project Settings.” Under the “General” tab, scroll down to “Your apps” and click on the web icon (</>). write your project name and copy the configuration snippet, and paste into `firebaseConfig`.
 
 
