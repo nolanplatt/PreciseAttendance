@@ -44,7 +44,10 @@ export { database };
 Finally, update `instructor/src/config.json`. Here, you can update the values to whatever you desire. Customize your endpoint URL, course name, instructor, etc.  
 
 5. **Start React app**  
-To start the React application, simply run `npm start`.  
+To start the React application, simply run `npm start`.
+  
+### Student View
+
 
 
 
