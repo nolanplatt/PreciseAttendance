@@ -6,11 +6,11 @@ PreciseAttendance is a light-weight, open source attendance system for education
 
 - [x] Instuctor View  
 - [x] Customize via config file  
-- []  Student View  
+- [ ]  Student View  
 - [x] Firebase Implementation  
-- [] Internet Connection Validation  
-- [] Canvas/LMS Integration  
-- [] Customize on a web panel rather than config  
+- [ ] Internet Connection Validation  
+- [ ] Canvas/LMS Integration  
+- [ ] Customize on a web panel rather than config  
 
 ## Usage
 ### Instructor View
