@@ -4,13 +4,13 @@
 
 PreciseAttendance is a light-weight, open source attendance system for educational institutions. Designed to prevent students from circumventing traditional attendance systems, PreciseAttendance ensures every student must come to class for their attendance to count. Utilizing a QR code with a customizable refresh-rate, students must be connected to the institution's internet connection, and also must submit their attendance with the correct token provided by the QR code they scanned. This means it is impractical for students to share the link provided by the QR code, ensuring precision. Leverages React, Firebase, and JS.   
 
-([x]) Instuctor View  
-([x]) Customize via config file  
-([])  Student View  
-([x]) Firebase Implementation  
-([]) Internet Connection Validation  
-([]) Canvas/LMS Integration  
-([]) Customize on a web panel rather than config  
+- [x] Instuctor View  
+- [x] Customize via config file  
+- []  Student View  
+- [x] Firebase Implementation  
+- [] Internet Connection Validation  
+- [] Canvas/LMS Integration  
+- [] Customize on a web panel rather than config  
 
 ## Usage
 ### Instructor View
